@@ -1,0 +1,91 @@
+COMP_NAME,TVL_NAME,FUZZY_SCORE,link_source
+ABBOTT LABORATORIES,Abbott Laboratories,100.0,fuzzy_token_set
+HONEYWELL INTERNATIONAL INC,Honeywell International Inc,100.0,fuzzy_token_set
+ARCHER-DANIELS-MIDLAND CO,Archer-Daniels-Midland Co,100.0,fuzzy_token_set
+ASHLAND INC,Ashland LLC,100.0,fuzzy_token_set
+BALL CORP,Ball Corp,100.0,fuzzy_token_set
+BAXTER INTERNATIONAL INC,Baxter International Inc,100.0,fuzzy_token_set
+BECTON DICKINSON & CO,Becton Dickinson & Co,100.0,fuzzy_token_set
+BRISTOL-MYERS SQUIBB CO,Bristol-Myers Squibb Co,100.0,fuzzy_token_set
+CAMPBELL SOUP CO,Campbell Soup Co,100.0,fuzzy_token_set
+CONSTELLATION BRANDS,Constellation Brands Inc,100.0,fuzzy_token_set
+CARDINAL HEALTH INC,Cardinal Health Inc,100.0,fuzzy_token_set
+CASEYS GENERAL STORES INC,Caseys General Stores Inc,100.0,fuzzy_token_set
+CLOROX CO/DE,Clorox Co,100.0,fuzzy_token_set
+COCA-COLA CO,Coca-Cola Co,100.0,fuzzy_token_set
+COLGATE-PALMOLIVE CO,Colgate-Palmolive Co,100.0,fuzzy_token_set
+CONAGRA BRANDS INC,Conagra Brands Inc,100.0,fuzzy_token_set
+MOLSON COORS BEVERAGE CO,Molson Coors Beverage Co,100.0,fuzzy_token_set
+TARGET CORP,Target Corp,100.0,fuzzy_token_set
+DOLLAR GENERAL CORP,Dollar General Corp,100.0,fuzzy_token_set
+DOVER CORP,Dover Corp,100.0,fuzzy_token_set
+DUPONT DE NEMOURS INC,"DuPont de Nemours, Inc.",100.0,fuzzy_token_set
+ECOLAB INC,Ecolab Inc,100.0,fuzzy_token_set
+EXXON MOBIL CORP,Exxon Mobil Corp,100.0,fuzzy_token_set
+MACY'S INC,Macy's Inc,100.0,fuzzy_token_set
+GAP INC,Gap Inc,100.0,fuzzy_token_set
+GENERAL MILLS INC,General Mills Inc,100.0,fuzzy_token_set
+GENERAL MOTORS CO,General Motors Co,100.0,fuzzy_token_set
+HERSHEY CO,Hershey Co,100.0,fuzzy_token_set
+HOME DEPOT INC,Home Depot Inc,100.0,fuzzy_token_set
+HORMEL FOODS CORP,Hormel Foods Corp,100.0,fuzzy_token_set
+ILLINOIS TOOL WORKS,Illinois Tool Works Inc,100.0,fuzzy_token_set
+JOHNSON & JOHNSON,Johnson & Johnson,100.0,fuzzy_token_set
+KIMBERLY-CLARK CORP,Kimberly-Clark Corp,100.0,fuzzy_token_set
+KROGER CO,Kroger Co,100.0,fuzzy_token_set
+MCDONALD'S CORP,McDonald's Corp,100.0,fuzzy_token_set
+MCKESSON CORP,McKesson Corp,100.0,fuzzy_token_set
+CVS HEALTH CORP,CVS Health Corp,100.0,fuzzy_token_set
+MERCK & CO,Merck & Co Inc,100.0,fuzzy_token_set
+3M CO,3M Co,100.0,fuzzy_token_set
+VIATRIS INC,"Viatris, Inc.",100.0,fuzzy_token_set
+NEWELL BRANDS INC,Newell Brands Inc,100.0,fuzzy_token_set
+NORDSTROM INC,Nordstrom Inc,100.0,fuzzy_token_set
+PEPSICO INC,PepsiCo Inc,100.0,fuzzy_token_set
+PFIZER INC,Pfizer Inc,100.0,fuzzy_token_set
+KONINKLIJKE PHILIPS NV,Koninklijke Philips NV,100.0,fuzzy_token_set
+PVH CORP,PVH Corp,100.0,fuzzy_token_set
+PROCTER & GAMBLE CO,Procter & Gamble Co,100.0,fuzzy_token_set
+RITE AID CORP,Rite Aid Corp,100.0,fuzzy_token_set
+SEABOARD CORP,Seaboard Corp,100.0,fuzzy_token_set
+SEALED AIR CORP,Sealed Air Corp,100.0,fuzzy_token_set
+SHERWIN-WILLIAMS CO,Sherwin-Williams Co,100.0,fuzzy_token_set
+SYSCO CORP,Sysco Corp,100.0,fuzzy_token_set
+TYSON FOODS INC  -CL A,Tyson Foods Inc,100.0,fuzzy_token_set
+WALMART INC,Walmart Inc,100.0,fuzzy_token_set
+WALGREENS BOOTS ALLIANCE INC,Walgreens Boots Alliance Inc,100.0,fuzzy_token_set
+WHIRLPOOL CORP,Whirlpool Corp,100.0,fuzzy_token_set
+BIG LOTS INC,Big Lots Inc,100.0,fuzzy_token_set
+EMPIRE CO LTD  -CL A,Empire Co Ltd,100.0,fuzzy_token_set
+WASTE MANAGEMENT INC,Waste Management Inc,100.0,fuzzy_token_set
+ODP CORP,ODP Corporation,100.0,fuzzy_token_set
+VALERO ENERGY CORP,Valero Energy Corp,100.0,fuzzy_token_set
+KIRIN HOLDINGS CO LTD,Kirin Holdings Co Ltd,100.0,fuzzy_token_set
+METRO INC,Metro Inc,100.0,fuzzy_token_set
+KONINKLIJKE AHOLD DELHAIZE,Koninklijke Ahold Delhaize NV,100.0,fuzzy_token_set
+KOHL'S CORP,Kohl's,100.0,fuzzy_token_set
+BED BATH & BEYOND INC,Bed Bath & Beyond Inc,100.0,fuzzy_token_set
+STARBUCKS CORP,Starbucks Corp,100.0,fuzzy_token_set
+ASTRAZENECA PLC,AstraZeneca PLC,100.0,fuzzy_token_set
+COCA-COLA FEMSA SAB DE CV,Coca-Cola Co,100.0,fuzzy_token_set
+COSTCO WHOLESALE CORP,Costco Wholesale Corp,100.0,fuzzy_token_set
+BAUSCH HEALTH COMPANIES INC,Bausch Health Companies Inc,100.0,fuzzy_token_set
+FOMENTO ECONOMICO MEXICANO,Fomento Economico Mexicano SAB de CV,100.0,fuzzy_token_set
+DOLLAR TREE INC,Dollar Tree Inc,100.0,fuzzy_token_set
+DARDEN RESTAURANTS INC,Darden Restaurants Inc,100.0,fuzzy_token_set
+ESTEE LAUDER COMPANIES INC,Estee Lauder Companies Inc,100.0,fuzzy_token_set
+UNITED NATURAL FOODS INC,United Natural Foods Inc,100.0,fuzzy_token_set
+AMAZON.COM INC,Amazon.com Inc,100.0,fuzzy_token_set
+RALPH LAUREN CORP,Ralph Lauren Corp,100.0,fuzzy_token_set
+YUM BRANDS INC,Yum! Brands Inc,100.0,fuzzy_token_set
+C H ROBINSON WORLDWIDE INC,C.H. Robinson Worldwide Inc,100.0,fuzzy_token_set
+SAPUTO INC,Saputo Inc,100.0,fuzzy_token_set
+BAYER AG,Bayer AG,100.0,fuzzy_token_set
+SANOFI,Sanofi SA,100.0,fuzzy_token_set
+NOVARTIS AG,Novartis AG,100.0,fuzzy_token_set
+WAL MART DE MEXICO S A B D,Wal Mart de Mexico SAB de CV,83.72093023255815,fuzzy_token_set
+MONDELEZ INTERNATIONAL INC,Mondelez International Inc,100.0,fuzzy_token_set
+LAND O'LAKES INC,"Land O'Lakes, Inc.",100.0,fuzzy_token_set
+QURATE RETAIL INC,Qurate Retail Inc,100.0,fuzzy_token_set
+HANESBRANDS INC,HanesBrands Inc,100.0,fuzzy_token_set
+AMBEV SA,Ambev SA,100.0,fuzzy_token_set
