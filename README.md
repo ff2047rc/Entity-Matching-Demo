@@ -105,4 +105,6 @@ Python ≥ 3.8 is recommended. Install with `pip install -r requirements.txt`
 
 ## Citation
 
-If you use this code for academic or commercial work, please cite **"Does it Match? Diagnosing Entity Resolution Methods in Marketing & Finance"** (forthcoming) and link back to this repository.
+This is a temporary repository created to support the peer review process for the working paper currently under evaluation. Citation details will be provided once the paper is accepted and published.
+
+If you use this code for academic or commercial work, please link back to this repository.
